@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Mylene Ferreira
 
-**`Desenvolvedora FullStack`**
-
-Olá! Eu chamo Mylene Ferreira, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia. Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer na área de desenvolvimento.
-
-
 <img 
     align="left" 
     alt="HTML"
